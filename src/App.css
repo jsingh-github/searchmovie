@@ -17,6 +17,11 @@ p {
   font-size: 1.6rem;
 }
 
+.p-main {
+  text-align: center;
+  font-size:1.5rem
+}
+
 small {
   font-size: 1.2rem;
 }
